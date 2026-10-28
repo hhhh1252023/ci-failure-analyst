@@ -1,0 +1,15 @@
+# secrets & local state
+.env
+analyzed_ci_runs.json
+
+# generated reports
+reports/
+npu_reports/
+
+# python
+__pycache__/
+*.pyc
+
+# misc
+*.log
+.DS_Store
